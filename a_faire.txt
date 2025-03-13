@@ -1,0 +1,11 @@
+fait:
+
+-mettre une liste a droite avec miniature des videos nom durée ect, cliquer deesus pour la selectionner et pouvoir la charger
+- selectionner le type de prompt que l on souhaite utiliser (c'est mode de description)
+- creer un prompt 'custom ou c'est l utilisateur qui donne son propre prompt
+
+a faire:
+
+
+
+
